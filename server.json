@@ -1,0 +1,15 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-10-17/server.schema.json",
+  "name": "io.github.aarna-ai/atars-fts-mcp",
+  "description": "MCP server for cryptocurrency trading signals and sentiment analysis. Provides technical indicator-based buy/sell signals, daily sentiment scoring, and rolling sentiment trends.",
+  "repository": {
+    "url": "https://github.com/aarna-ai/atars-fts-mcp",
+    "source": "github"
+  },
+"remotes": [
+    {
+      "url": "https://mcp.aarna.ai/mcp",
+      "type": "http"
+    }
+  ]
+}
