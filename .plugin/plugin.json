@@ -1,0 +1,14 @@
+{
+  "name": "atars-fts-mcp",
+  "version": "1.0.0",
+  "description": "ATARS Feature & Time-Series MCP server — provides crypto technical indicators, sentiment signals, and ML-ready feature exports for 40+ indicators across BTC, ETH, and other assets.",
+  "author": {
+    "name": "Aarna AI",
+    "url": "https://github.com/aarna-ai"
+  },
+  "homepage": "https://github.com/aarna-ai/atars-fts-mcp",
+  "repository": "https://github.com/aarna-ai/atars-fts-mcp",
+  "license": "MIT",
+  "keywords": ["crypto", "mcp", "technical-analysis", "sentiment", "trading", "indicators", "atars"],
+  "mcpServers": "./.mcp.json"
+}
